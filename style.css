@@ -1,0 +1,53 @@
+.topnav {
+    background-color: #dbdbdb;
+    overflow: hidden;
+
+    /* align to all text to center of screen; */
+    font-family: Helvetica;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 2px solid #adadad;
+
+    display: flex;
+    justify-content: center;
+}
+  
+.topnav a {
+    float: left;
+    color: #3d3d3d;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: flex;
+}
+  
+.topnav a:hover {
+    color: black;
+}
+  
+.topnav a:active {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h2 {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+h3 {
+    text-align: center;
+    font-family: Helvetica;
+}
+
+
+p {
+    text-align: center;
+    font-family: Helvetica;
+    padding-left: 20%;
+    padding-right: 20%;
+}
