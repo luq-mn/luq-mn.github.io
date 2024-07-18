@@ -48,6 +48,11 @@ h3 {
 p {
     text-align: center;
     font-family: Helvetica;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+a {
+    text-align: center;
+    font-family: Helvetica;
 }
